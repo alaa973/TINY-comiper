@@ -1,0 +1,24 @@
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\eslam\Desktop\parser\Parser-Template - Studs Versions\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\bin\Debug\JASON_Compiler.exe.config
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\bin\Debug\JASON_Compiler.exe
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\bin\Debug\JASON_Compiler.pdb
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.AssemblyReference.cache
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.SuggestedBindingRedirects.cache
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\TINY_Compiler.Form1.resources
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\TINY_Compiler.Form2.resources
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\JASON_Compiler.Properties.Resources.resources
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.GenerateResource.cache
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\TINY_Compiler.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\JASON_Compiler.exe
+C:\Users\eslam\Desktop\parser\TINY compiler\JASON_Compiler\obj\Debug\JASON_Compiler.pdb
